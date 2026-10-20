@@ -2,6 +2,8 @@
 
 Учебная проектная работа Яндекс Практикума: страница аукциона вещей, в которые никто не верил.
 
+Автор: Nikita-Link.
+
 Репозиторий: https://github.com/Nikita-Link/ono-tebe-nado-ad
 
 [Оригинальный макет Figma](https://www.figma.com/design/PqHJvUBvwCsv8UmOUPWBXJ/1-спринт.-Проектная-работа?node-id=0-1)
